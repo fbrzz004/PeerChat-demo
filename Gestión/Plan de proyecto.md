@@ -12,15 +12,6 @@
 	- Pedro Sota
 	- Óscar Macchiavello
 
-
-## Lista de tareas
-
-- [ ] Hacer el DER
-- [ ] Hacer el DAD
-
-	- [ ] Diseñar la interfaz (Adrián)
-
-
 ## Diagrama de Gantt
 
 ```mermaid

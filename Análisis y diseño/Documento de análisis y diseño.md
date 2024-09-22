@@ -22,7 +22,7 @@
 
 ### Diagrama de estado
 
-### Diseño de interfaz de usuario
+### Diseño de interfaz de usuarioc
 
 ### Consideraciones ténicas
 
